@@ -3,8 +3,8 @@ pipeline {
     
     environment {
         DOCKER_HUB_CREDENTIALS = credentials('docker-hub-credentials')
-        IMAGE_NAME = 'maajidkhan/ml-salary-predictor'
-        DOCKER_HUB_REPO = 'maajidkhan/ml-salary-predictor'
+        IMAGE_NAME = 'akprogramer/ml-salary-predictor'
+        DOCKER_HUB_REPO = 'akprogramer/ml-salary-predictor'
     }
     
     stages {

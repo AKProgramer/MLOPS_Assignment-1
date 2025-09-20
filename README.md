@@ -70,8 +70,8 @@ A Flask web application that predicts employee salaries using machine learning, 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/MaajidKhan/DeployMLModel-Flask.git
-   cd DeployMLModel-Flask
+   git clone https://github.com/AKProgramer/MLOPS_Assignment-1.git
+   cd MLOPS_Assignment-1/DeployMLModel-Flask
    ```
 
 2. **Create virtual environment**
